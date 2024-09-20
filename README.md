@@ -7,3 +7,7 @@ This technology has been applied in many areas, such as surveillance, autonomous
 The technology, however, is far from straightforward, it requires the interpretable comprehension of two types of information, spatial (object appearance and location) and temporal (action ordering over time)
 In this project, we used yolo for human detection and deepSORT for tracking puporses.
 
+
+<p align="center">
+    <img src="https://github.com/dvskabangira/Human-action-detection-and-tracking/dettt.gif", width="540">
+
