@@ -8,5 +8,5 @@ The technology, however, is far from straightforward, it requires the interpreta
 In this project, we used yolov7 for human detection and deepSORT for tracking puporses.
 
 <p align="center">
-    <img src="/dvskabangira/Human-action-detection-and-tracking/dettt.gif", width="540">
+    <img src="https://github.com/dvskabangira/Human-action-detection-and-tracking/blob/main/det2.gif", width="540">
     
